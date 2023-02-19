@@ -1,2 +1,3 @@
 # odin-recipes
-This will be saved for the end of today's (02/17/23; Project: Recipes) lesson.
+Finished a beginner's project for The Odin Project and am pretty happy about myself. :)
+In all honesty though...I got really lazy on actually listing out the proper steps and shenanigans, so am sorry. :(
